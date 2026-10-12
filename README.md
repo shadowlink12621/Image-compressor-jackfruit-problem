@@ -6,7 +6,7 @@ The objective of this project is to develop a functional Python utility using th
 
 Allow selection of multiple images for batch processing.
 
-Enable conversion to multiple output formats (JPEG, PNG, WEBP, etc..).
+Enable conversion to multiple output formats (JPEG, PNG, WEBP, JPG etc..).
 
 Implement image manipulation features, specifically grayscale conversion.
 
